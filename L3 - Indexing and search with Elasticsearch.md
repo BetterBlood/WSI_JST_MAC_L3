@@ -278,7 +278,7 @@ GET cacm_standard/_search
   }
 }
 ```
-**"Thacher Jr., H. C."** est l'auteur qui à le plsu grand nombre de publications avec une valeur de **38 publications**.
+**"Thacher Jr., H. C."** est l'auteur qui à le plus grand nombre de publications avec une valeur de **38 publications**.
 
 
 
@@ -383,6 +383,7 @@ GET cacm_standard/_search
 |7|_in_|416|13.32 %|
 |8|_on_|340|10.89 %|
 |9|_an_|275|8.81 %|
+|10|_computer_|275|8.81 %|
 
 
 
